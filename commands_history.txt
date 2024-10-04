@@ -1,0 +1,104 @@
+    1  git config --global user.name 
+    2  git config --global user.email
+    3  git --v
+    4  git --version
+    5  git config --global user.name
+    6  git config --global user.email
+    7  git init
+    8  git log
+    9  git log
+   10  git add .
+   11  git add .
+   12  git commit -m "First commit"
+   13  cd
+   14  cd C:\Users\KoreanBro\Desktop\Whisper\Whisper
+   15  git add README.MD
+   16  cd C:\Users\KoreanBro\Desktop\config
+   17  git init
+   18  git config list
+   19  git config - global user.username"KorNorJb"
+   20  git config global user.username"KorNorJb"
+   21  git config user.username"KorNorJb"
+   22  git config user.email"najomob@gmail.com"
+   23  git config list
+   24  clear
+   25  git add first_file.txt - touch
+   26  git add first_file.txt -- touch
+   27  git add all
+   28  git add 
+   29  git status
+   30  git add f.txt - touch
+   31  git add f.txt  touch
+   32  git add f.txt -- touch
+   33  touch f.txt
+   34  git status
+   35  git add --all
+   36  git status
+   37  git log
+   38  git commit -m "adding files"
+   39  git push
+   40  git init
+   41  git init
+   42  git config user.name "KorNorJb"
+   43  git config user.email "najomob@gmail.com"
+   44  git config user.email "najomob@gmail.com"
+   45  git config
+   46  git config list
+   47  clear
+   48  git add fFile.txt
+   49  git add fFile.txt - touch
+   50  git add fFile.txt - touch
+   51  git add fFile.txt
+   52  git add all
+   53  git add -all
+   54  git add --all
+   55  git status
+   56  git commit -m "add two files"
+   57  Touch tFile.txt
+   58  git add
+   59  git add .
+   60  git status
+   61  git log
+   62  git log -oneline
+   63  git log --oneline
+   64  git status
+   65  git add .
+   66  git commit -m "somthing added"
+   67  git log --oneline
+   68  git checkout
+   69  git diff
+   70  git show 
+   71  git log
+   72  git show
+   73  git show [200~ d7181b134843407efec6b66bae6489763133573d~
+   74  [200~git log --oneline~
+   75  git log --oneline~
+   76  git log --oneline
+   77  git diff fa99a9d d7181b1
+   78  git diff --staged
+   79  git rm fth.txt
+   80  git rm fthFile.txt
+   81  ls
+   82  git rm fthFile.txt 
+   83  git rm sFile.txt 
+   84  ls
+   85  git reset HEAD fthFile.txt
+   86  git status
+   87  git remote add origin "https://github.com/KorNorJb/DevOpsPractice.git"
+   88  git push origin master
+   89  git push -u origin master
+   90  git clone "github_link.git" new
+   91  git clone "https://github.com/KorNorJb/DevOpsPractice.git" new
+   92  nano fFile.txt
+   93  git add fFile.txt 
+   94  git commit -m "Change fFile"
+   95   git push origin master
+   96  git fetch
+   97  git pull
+   98  git branch new__branch
+   99  git branch
+  100  git checkout new__branch 
+  101  git checkout -b new__branch 
+  102  git merge new__branch 
+  103  git branch -d new__branch 
+  104  history > commands_history.txt
